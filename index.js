@@ -90,6 +90,11 @@ function getFridayOfCurrentWeek() {
   return friday.toISOString().slice(0, 10);;
 }
 
+app.get('/api/hello', (req, res) => {
+  console.log('API hit!');
+  res.json({ message: 'Hello from Express!' });
+});
+
 app.get('/api/options/:symbol/:assetclass/:selected', async (req, res) => {
   const { symbol, assetclass, selected } = req.params;
   console.warn('assetclass', assetclass)
