@@ -2980,5 +2980,187 @@
     "callVolume": 571048,
     "putVolume": 327567,
     "selectedTicker": "NVDA"
+  },
+  {
+    "id": 427,
+    "timestamp": "2025-04-19T10:31:47.442Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "NVDA"
+  },
+  {
+    "id": 428,
+    "timestamp": "2025-04-19T10:38:16.717Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 429,
+    "timestamp": "2025-04-19T10:46:18.054Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 430,
+    "timestamp": "2025-04-19T10:46:39.748Z",
+    "callVolume": 52404,
+    "putVolume": 47404,
+    "selectedTicker": "IWM"
+  },
+  {
+    "id": 431,
+    "timestamp": "2025-04-19T10:47:53.430Z",
+    "callVolume": 8270,
+    "putVolume": 6531,
+    "selectedTicker": "NIO"
+  },
+  {
+    "id": 432,
+    "timestamp": "2025-04-19T10:48:02.531Z",
+    "callVolume": 18500,
+    "putVolume": 9831,
+    "selectedTicker": "BABA"
+  },
+  {
+    "id": 433,
+    "timestamp": "2025-04-19T10:48:10.942Z",
+    "callVolume": 36588,
+    "putVolume": 20208,
+    "selectedTicker": "SMCI"
+  },
+  {
+    "id": 434,
+    "timestamp": "2025-04-19T10:48:35.692Z",
+    "callVolume": 64256,
+    "putVolume": 27461,
+    "selectedTicker": "AMZN"
+  },
+  {
+    "id": 435,
+    "timestamp": "2025-04-19T10:48:50.017Z",
+    "callVolume": 10583,
+    "putVolume": 14132,
+    "selectedTicker": "GOOG"
+  },
+  {
+    "id": 436,
+    "timestamp": "2025-04-19T10:50:41.657Z",
+    "callVolume": 2690,
+    "putVolume": 1305,
+    "selectedTicker": "DAL"
+  },
+  {
+    "id": 437,
+    "timestamp": "2025-04-19T10:50:58.748Z",
+    "callVolume": 15825,
+    "putVolume": 12375,
+    "selectedTicker": "UNH"
+  },
+  {
+    "id": 438,
+    "timestamp": "2025-04-19T10:51:15.091Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 439,
+    "timestamp": "2025-04-19T10:53:32.256Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 440,
+    "timestamp": "2025-04-19T10:53:35.712Z",
+    "callVolume": 31878,
+    "putVolume": 16927,
+    "selectedTicker": "SOXL"
+  },
+  {
+    "id": 441,
+    "timestamp": "2025-04-19T10:54:14.498Z",
+    "callVolume": 9685,
+    "putVolume": 8987,
+    "selectedTicker": "TSLL"
+  },
+  {
+    "id": 442,
+    "timestamp": "2025-04-19T10:54:19.302Z",
+    "callVolume": 30326,
+    "putVolume": 21117,
+    "selectedTicker": "TQQQ"
+  },
+  {
+    "id": 443,
+    "timestamp": "2025-04-19T10:54:23.589Z",
+    "callVolume": 2690,
+    "putVolume": 1305,
+    "selectedTicker": "DAL"
+  },
+  {
+    "id": 444,
+    "timestamp": "2025-04-19T11:03:32.834Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "DAL"
+  },
+  {
+    "id": 445,
+    "timestamp": "2025-04-19T11:13:33.093Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "DAL"
+  },
+  {
+    "id": 446,
+    "timestamp": "2025-04-19T11:23:32.816Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "DAL"
+  },
+  {
+    "id": 447,
+    "timestamp": "2025-04-19T11:33:32.927Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "DAL"
+  },
+  {
+    "id": 448,
+    "timestamp": "2025-04-19T11:44:01.166Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "DAL"
+  },
+  {
+    "id": 449,
+    "timestamp": "2025-04-19T11:54:00.802Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "DAL"
+  },
+  {
+    "id": 450,
+    "timestamp": "2025-04-19T15:59:36.178Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 451,
+    "timestamp": "2025-04-19T15:59:48.203Z",
+    "callVolume": 52404,
+    "putVolume": 47404,
+    "selectedTicker": "IWM"
+  },
+  {
+    "id": 452,
+    "timestamp": "2025-04-19T15:59:50.166Z",
+    "callVolume": 571048,
+    "putVolume": 327567,
+    "selectedTicker": "NVDA"
   }
 ]

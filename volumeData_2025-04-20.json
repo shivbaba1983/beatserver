@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-04-20T02:32:39.352Z",
+    "callVolume": 571048,
+    "putVolume": 327567,
+    "selectedTicker": "NVDA"
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-04-20T02:32:39.473Z",
+    "callVolume": 571048,
+    "putVolume": 327567,
+    "selectedTicker": "NVDA"
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-04-20T02:32:39.531Z",
+    "callVolume": 571048,
+    "putVolume": 327567,
+    "selectedTicker": "NVDA"
+  },
+  {
+    "id": 4,
+    "timestamp": "2025-04-20T02:34:27.606Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 5,
+    "timestamp": "2025-04-20T02:34:31.072Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 6,
+    "timestamp": "2025-04-20T02:37:53.443Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 7,
+    "timestamp": "2025-04-20T02:47:53.884Z",
+    "callVolume": 571048,
+    "putVolume": 327567,
+    "selectedTicker": "NVDA"
+  },
+  {
+    "id": 8,
+    "timestamp": "2025-04-20T02:47:53.891Z",
+    "callVolume": 131132,
+    "putVolume": 83562,
+    "selectedTicker": "AAPL"
+  },
+  {
+    "id": 9,
+    "timestamp": "2025-04-20T02:47:53.910Z",
+    "callVolume": 64256,
+    "putVolume": 27461,
+    "selectedTicker": "AMZN"
+  },
+  {
+    "id": 10,
+    "timestamp": "2025-04-20T02:47:54.150Z",
+    "callVolume": 10583,
+    "putVolume": 14132,
+    "selectedTicker": "GOOG"
+  },
+  {
+    "id": 11,
+    "timestamp": "2025-04-20T02:47:54.438Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 12,
+    "timestamp": "2025-04-20T02:47:54.493Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  },
+  {
+    "id": 13,
+    "timestamp": "2025-04-20T02:47:54.913Z",
+    "callVolume": 52404,
+    "putVolume": 47404,
+    "selectedTicker": "IWM"
+  },
+  {
+    "id": 14,
+    "timestamp": "2025-04-20T02:47:54.921Z",
+    "callVolume": 275141,
+    "putVolume": 310900,
+    "selectedTicker": "QQQ"
+  },
+  {
+    "id": 15,
+    "timestamp": "2025-04-20T02:51:40.604Z",
+    "callVolume": 592553,
+    "putVolume": 656441,
+    "selectedTicker": "SPY"
+  }
+]
